@@ -1,0 +1,295 @@
+App starting up...
+Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+Darren has logged in.
+New game starting between Darren and Computer.
+Round: Darren rolled rock and Computer rolls air
+This round's winner was Computer
+Score is Darren: 0 and Computer: 1
+Round: Darren rolled paper and Computer rolls rock
+This round's winner was Darren
+Score is Darren: 1 and Computer: 1
+Round: Darren rolled scissors and Computer rolls scissors
+This round was a tie
+Round: Darren rolled fire and Computer rolls rock
+This round's winner was Computer
+Score is Darren: 1 and Computer: 2
+Round: Darren rolled sponge and Computer rolls fire
+This round's winner was Computer
+Score is Darren: 1 and Computer: 3
+Computer wins the game!!
+Game Over.
+[2020-07-14T18:36:52.037557] App starting up...
+[2020-07-14T18:36:52.040557] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[2020-07-14T18:36:54.036004] 1 has logged in.
+[2020-07-14T18:36:54.036996] New game starting between 1 and Computer.
+[2020-07-14T18:36:59.276793] App starting up...
+[2020-07-14T18:36:59.277793] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[2020-07-14T18:37:02.989743] Darren has logged in.
+[2020-07-14T18:37:02.991742] New game starting between Darren and Computer.
+[2020-07-14T18:37:03.826922] Round: Darren rolled rock and Computer rolls water
+[2020-07-14T18:37:03.827931] This round's winner was Computer
+[2020-07-14T18:37:03.828923] Score is Darren: 0 and Computer: 1
+[2020-07-14T18:37:04.475094] Round: Darren rolled paper and Computer rolls water
+[2020-07-14T18:37:04.476103] This round's winner was Darren
+[2020-07-14T18:37:04.477095] Score is Darren: 1 and Computer: 1
+[2020-07-14T18:37:05.136492] Round: Darren rolled scissors and Computer rolls scissors
+[2020-07-14T18:37:05.137484] This round was a tie
+[2020-07-14T18:37:05.806804] Round: Darren rolled fire and Computer rolls fire
+[2020-07-14T18:37:05.807804] This round was a tie
+[2020-07-14T18:37:06.457942] Round: Darren rolled sponge and Computer rolls water
+[2020-07-14T18:37:06.458943] This round's winner was Darren
+[2020-07-14T18:37:06.459943] Score is Darren: 2 and Computer: 1
+[2020-07-14T18:37:07.159531] Round: Darren rolled air and Computer rolls paper
+[2020-07-14T18:37:07.160532] This round's winner was Computer
+[2020-07-14T18:37:07.161533] Score is Darren: 2 and Computer: 2
+[2020-07-14T18:37:07.805671] Round: Darren rolled water and Computer rolls sponge
+[2020-07-14T18:37:07.806672] This round's winner was Computer
+[2020-07-14T18:37:07.806672] Score is Darren: 2 and Computer: 3
+[2020-07-14T18:37:07.807674] Computer wins the game!!
+[2020-07-14T18:37:07.809673] Game Over.
+[Tue Jul 14 18:40:08 2020] App starting up...
+[Tue Jul 14 18:40:08 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Tue Jul 14 18:40:11 2020] Darren has logged in.
+[Tue Jul 14 18:40:11 2020] New game starting between Darren and Computer.
+[Tue Jul 14 18:40:12 2020] Round: Darren rolled paper and Computer rolls scissors
+[Tue Jul 14 18:40:12 2020] This round's winner was Computer
+[Tue Jul 14 18:40:12 2020] Score is Darren: 0 and Computer: 1
+[Tue Jul 14 18:40:13 2020] Round: Darren rolled paper and Computer rolls rock
+[Tue Jul 14 18:40:13 2020] This round's winner was Darren
+[Tue Jul 14 18:40:13 2020] Score is Darren: 1 and Computer: 1
+[Tue Jul 14 18:40:14 2020] Round: Darren rolled rock and Computer rolls air
+[Tue Jul 14 18:40:14 2020] This round's winner was Computer
+[Tue Jul 14 18:40:14 2020] Score is Darren: 1 and Computer: 2
+[Tue Jul 14 18:40:14 2020] Round: Darren rolled scissors and Computer rolls air
+[Tue Jul 14 18:40:14 2020] This round's winner was Darren
+[Tue Jul 14 18:40:14 2020] Score is Darren: 2 and Computer: 2
+[Tue Jul 14 18:40:15 2020] Round: Darren rolled fire and Computer rolls water
+[Tue Jul 14 18:40:15 2020] This round's winner was Computer
+[Tue Jul 14 18:40:15 2020] Score is Darren: 2 and Computer: 3
+[Tue Jul 14 18:40:15 2020] Computer wins the game!!
+[Tue Jul 14 18:40:15 2020] Game Over.
+[Wed Jul 15 17:29:07 2020] App starting up...
+[Wed Jul 15 17:29:07 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:29:16 2020] Cool Darren has logged in.
+[Wed Jul 15 17:29:16 2020] New game starting between Cool Darren and Computer.
+[Wed Jul 15 17:29:18 2020] Round: Cool Darren rolled rock and Computer rolls paper
+[Wed Jul 15 17:29:18 2020] This round's winner was Computer
+[Wed Jul 15 17:29:18 2020] Score is Cool Darren: 0 and Computer: 1
+[Wed Jul 15 17:29:18 2020] Round: Cool Darren rolled paper and Computer rolls paper
+[Wed Jul 15 17:29:18 2020] This round was a tie
+[Wed Jul 15 17:29:19 2020] Round: Cool Darren rolled scissors and Computer rolls paper
+[Wed Jul 15 17:29:19 2020] This round's winner was Cool Darren
+[Wed Jul 15 17:29:19 2020] Score is Cool Darren: 1 and Computer: 1
+[Wed Jul 15 17:29:19 2020] Round: Cool Darren rolled fire and Computer rolls rock
+[Wed Jul 15 17:29:19 2020] This round's winner was Computer
+[Wed Jul 15 17:29:19 2020] Score is Cool Darren: 1 and Computer: 2
+[Wed Jul 15 17:29:20 2020] Round: Cool Darren rolled sponge and Computer rolls rock
+[Wed Jul 15 17:29:20 2020] This round's winner was Computer
+[Wed Jul 15 17:29:20 2020] Score is Cool Darren: 1 and Computer: 3
+[Wed Jul 15 17:29:20 2020] Computer wins the game!!
+[Wed Jul 15 17:29:20 2020] Game Over.
+[Wed Jul 15 17:31:57 2020] App starting up...
+[Wed Jul 15 17:31:57 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:34:18 2020] App starting up...
+[Wed Jul 15 17:34:18 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:35:34 2020] App starting up...
+[Wed Jul 15 17:35:34 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:35:38 2020] Cool Darren has logged in.
+[Wed Jul 15 17:35:38 2020] New game starting between Cool Darren and Computer.
+[Wed Jul 15 17:36:08 2020] App starting up...
+[Wed Jul 15 17:36:08 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:36:12 2020] Cool Darren has logged in.
+[Wed Jul 15 17:36:12 2020] New game starting between Cool Darren and Computer.
+[Wed Jul 15 17:37:17 2020] App starting up...
+[Wed Jul 15 17:37:17 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:37:22 2020] Cool Darren has logged in.
+[Wed Jul 15 17:37:22 2020] New game starting between Cool Darren and Computer.
+[Wed Jul 15 17:37:24 2020] Round: Cool Darren rolled sponge and Computer rolls sponge
+[Wed Jul 15 17:37:24 2020] This round was a tie
+[Wed Jul 15 17:37:47 2020] App starting up...
+[Wed Jul 15 17:37:47 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:37:52 2020] Cool Darren has logged in.
+[Wed Jul 15 17:37:52 2020] New game starting between Cool Darren and Computer.
+[Wed Jul 15 17:37:54 2020] Round: Cool Darren rolled scissors and Computer rolls sponge
+[Wed Jul 15 17:37:54 2020] This round was a tie
+[Wed Jul 15 17:37:56 2020] Round: Cool Darren rolled sponge and Computer rolls water
+[Wed Jul 15 17:37:56 2020] This round's winner was Cool Darren
+[Wed Jul 15 17:37:56 2020] Score is Cool Darren: 1 and Computer: 0
+[Wed Jul 15 17:37:57 2020] Round: Cool Darren rolled paper and Computer rolls sponge
+[Wed Jul 15 17:37:57 2020] This round's winner was Computer
+[Wed Jul 15 17:37:57 2020] Score is Cool Darren: 1 and Computer: 1
+[Wed Jul 15 17:37:58 2020] Round: Cool Darren rolled rock and Computer rolls fire
+[Wed Jul 15 17:37:58 2020] This round's winner was Cool Darren
+[Wed Jul 15 17:37:58 2020] Score is Cool Darren: 2 and Computer: 1
+[Wed Jul 15 17:37:58 2020] Round: Cool Darren rolled sponge and Computer rolls fire
+[Wed Jul 15 17:37:58 2020] This round's winner was Computer
+[Wed Jul 15 17:37:58 2020] Score is Cool Darren: 2 and Computer: 2
+[Wed Jul 15 17:38:00 2020] Round: Cool Darren rolled air and Computer rolls paper
+[Wed Jul 15 17:38:00 2020] This round's winner was Computer
+[Wed Jul 15 17:38:00 2020] Score is Cool Darren: 2 and Computer: 3
+[Wed Jul 15 17:38:00 2020] Computer wins the game!!
+[Wed Jul 15 17:38:00 2020] Game Over.
+[Wed Jul 15 17:40:50 2020] App starting up...
+[Wed Jul 15 17:40:50 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:40:54 2020] Cool Darren has logged in.
+[Wed Jul 15 17:40:54 2020] New game starting between Cool Darren and Computer.
+[Wed Jul 15 17:40:55 2020] Round: Cool Darren rolled rock and Computer rolls scissors
+[Wed Jul 15 17:40:55 2020] This round's winner was Cool Darren
+[Wed Jul 15 17:40:55 2020] Score is Cool Darren: 1 and Computer: 0
+[Wed Jul 15 17:41:09 2020] App starting up...
+[Wed Jul 15 17:41:09 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:41:13 2020] Bot Beater has logged in.
+[Wed Jul 15 17:41:13 2020] New game starting between Bot Beater and Computer.
+[Wed Jul 15 17:41:13 2020] Round: Bot Beater rolled paper and Computer rolls water
+[Wed Jul 15 17:41:13 2020] This round's winner was Bot Beater
+[Wed Jul 15 17:41:13 2020] Score is Bot Beater: 1 and Computer: 0
+[Wed Jul 15 17:41:15 2020] Round: Bot Beater rolled fire and Computer rolls water
+[Wed Jul 15 17:41:15 2020] This round's winner was Computer
+[Wed Jul 15 17:41:15 2020] Score is Bot Beater: 1 and Computer: 1
+[Wed Jul 15 17:41:16 2020] Round: Bot Beater rolled paper and Computer rolls fire
+[Wed Jul 15 17:41:16 2020] This round's winner was Computer
+[Wed Jul 15 17:41:16 2020] Score is Bot Beater: 1 and Computer: 2
+[Wed Jul 15 17:41:17 2020] Round: Bot Beater rolled rock and Computer rolls scissors
+[Wed Jul 15 17:41:17 2020] This round's winner was Bot Beater
+[Wed Jul 15 17:41:17 2020] Score is Bot Beater: 2 and Computer: 2
+[Wed Jul 15 17:41:17 2020] Round: Bot Beater rolled scissors and Computer rolls sponge
+[Wed Jul 15 17:41:17 2020] This round was a tie
+[Wed Jul 15 17:41:18 2020] Round: Bot Beater rolled paper and Computer rolls rock
+[Wed Jul 15 17:41:18 2020] This round's winner was Bot Beater
+[Wed Jul 15 17:41:18 2020] Score is Bot Beater: 3 and Computer: 2
+[Wed Jul 15 17:41:18 2020] Bot Beater wins the game!!
+[Wed Jul 15 17:41:18 2020] Game Over.
+[Wed Jul 15 17:41:53 2020] App starting up...
+[Wed Jul 15 17:41:53 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:41:59 2020] The Cooler Darren has logged in.
+[Wed Jul 15 17:41:59 2020] New game starting between The Cooler Darren and Computer.
+[Wed Jul 15 17:42:00 2020] Round: The Cooler Darren rolled paper and Computer rolls water
+[Wed Jul 15 17:42:00 2020] This round's winner was The Cooler Darren
+[Wed Jul 15 17:42:00 2020] Score is The Cooler Darren: 1 and Computer: 0
+[Wed Jul 15 17:42:01 2020] Round: The Cooler Darren rolled scissors and Computer rolls paper
+[Wed Jul 15 17:42:01 2020] This round's winner was The Cooler Darren
+[Wed Jul 15 17:42:01 2020] Score is The Cooler Darren: 2 and Computer: 0
+[Wed Jul 15 17:42:01 2020] Round: The Cooler Darren rolled fire and Computer rolls sponge
+[Wed Jul 15 17:42:01 2020] This round's winner was The Cooler Darren
+[Wed Jul 15 17:42:01 2020] Score is The Cooler Darren: 3 and Computer: 0
+[Wed Jul 15 17:42:01 2020] The Cooler Darren wins the game!!
+[Wed Jul 15 17:42:01 2020] Game Over.
+[Wed Jul 15 17:42:10 2020] App starting up...
+[Wed Jul 15 17:42:10 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:42:17 2020] The Cooler Darren has logged in.
+[Wed Jul 15 17:42:17 2020] New game starting between The Cooler Darren and Computer.
+[Wed Jul 15 17:42:18 2020] Round: The Cooler Darren rolled paper and Computer rolls scissors
+[Wed Jul 15 17:42:18 2020] This round's winner was Computer
+[Wed Jul 15 17:42:18 2020] Score is The Cooler Darren: 0 and Computer: 1
+[Wed Jul 15 17:42:19 2020] Round: The Cooler Darren rolled scissors and Computer rolls rock
+[Wed Jul 15 17:42:19 2020] This round's winner was Computer
+[Wed Jul 15 17:42:19 2020] Score is The Cooler Darren: 0 and Computer: 2
+[Wed Jul 15 17:42:21 2020] Round: The Cooler Darren rolled paper and Computer rolls fire
+[Wed Jul 15 17:42:21 2020] This round's winner was Computer
+[Wed Jul 15 17:42:21 2020] Score is The Cooler Darren: 0 and Computer: 3
+[Wed Jul 15 17:42:21 2020] Computer wins the game!!
+[Wed Jul 15 17:42:21 2020] Game Over.
+[Wed Jul 15 17:43:58 2020] App starting up...
+[Wed Jul 15 17:43:58 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:44:03 2020] The Cooler Darren has logged in.
+[Wed Jul 15 17:44:03 2020] New game starting between The Cooler Darren and Computer.
+[Wed Jul 15 17:44:04 2020] Round: The Cooler Darren rolled paper and Computer rolls paper
+[Wed Jul 15 17:44:04 2020] This round was a tie
+[Wed Jul 15 17:44:05 2020] Round: The Cooler Darren rolled fire and Computer rolls sponge
+[Wed Jul 15 17:44:05 2020] This round's winner was The Cooler Darren
+[Wed Jul 15 17:44:05 2020] Score is The Cooler Darren: 1 and Computer: 0
+[Wed Jul 15 17:44:06 2020] Round: The Cooler Darren rolled scissors and Computer rolls water
+[Wed Jul 15 17:44:06 2020] This round's winner was Computer
+[Wed Jul 15 17:44:06 2020] Score is The Cooler Darren: 1 and Computer: 1
+[Wed Jul 15 17:44:07 2020] Round: The Cooler Darren rolled paper and Computer rolls air
+[Wed Jul 15 17:44:07 2020] This round's winner was The Cooler Darren
+[Wed Jul 15 17:44:07 2020] Score is The Cooler Darren: 2 and Computer: 1
+[Wed Jul 15 17:44:08 2020] Round: The Cooler Darren rolled rock and Computer rolls air
+[Wed Jul 15 17:44:08 2020] This round's winner was Computer
+[Wed Jul 15 17:44:08 2020] Score is The Cooler Darren: 2 and Computer: 2
+[Wed Jul 15 17:44:09 2020] Round: The Cooler Darren rolled paper and Computer rolls scissors
+[Wed Jul 15 17:44:09 2020] This round's winner was Computer
+[Wed Jul 15 17:44:09 2020] Score is The Cooler Darren: 2 and Computer: 3
+[Wed Jul 15 17:44:09 2020] Computer wins the game!!
+[Wed Jul 15 17:44:09 2020] Game Over.
+[Wed Jul 15 17:52:38 2020] App starting up...
+[Wed Jul 15 17:52:38 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:52:44 2020] The Cooler Darren has logged in.
+[Wed Jul 15 17:52:44 2020] New game starting between The Cooler Darren and Computer.
+[Wed Jul 15 17:53:08 2020] App starting up...
+[Wed Jul 15 17:53:08 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:53:12 2020] The Cooler Darren has logged in.
+[Wed Jul 15 17:53:12 2020] New game starting between The Cooler Darren and Computer.
+[Wed Jul 15 17:53:15 2020] Round: The Cooler Darren rolled rock and Computer rolls paper
+[Wed Jul 15 17:53:15 2020] This round's winner was Computer
+[Wed Jul 15 17:53:15 2020] Score is The Cooler Darren: 0 and Computer: 1
+[Wed Jul 15 17:53:17 2020] Round: The Cooler Darren rolled fire and Computer rolls sponge
+[Wed Jul 15 17:53:17 2020] This round's winner was The Cooler Darren
+[Wed Jul 15 17:53:17 2020] Score is The Cooler Darren: 1 and Computer: 1
+[Wed Jul 15 17:53:18 2020] Round: The Cooler Darren rolled scissors and Computer rolls paper
+[Wed Jul 15 17:53:18 2020] This round's winner was The Cooler Darren
+[Wed Jul 15 17:53:18 2020] Score is The Cooler Darren: 2 and Computer: 1
+[Wed Jul 15 17:53:19 2020] Round: The Cooler Darren rolled paper and Computer rolls water
+[Wed Jul 15 17:53:19 2020] This round's winner was The Cooler Darren
+[Wed Jul 15 17:53:19 2020] Score is The Cooler Darren: 3 and Computer: 1
+[Wed Jul 15 17:53:19 2020] The Cooler Darren wins the game!!
+[Wed Jul 15 17:53:19 2020] Game Over.
+[Wed Jul 15 17:56:09 2020] App starting up...
+[Wed Jul 15 17:56:09 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:56:16 2020] Bot Beater has logged in.
+[Wed Jul 15 17:56:16 2020] New game starting between Bot Beater and Computer.
+[Wed Jul 15 17:56:52 2020] App starting up...
+[Wed Jul 15 17:56:52 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 17:57:06 2020] Computer has logged in.
+[Wed Jul 15 17:57:06 2020] New game starting between Computer and Computer.
+[Wed Jul 15 17:57:17 2020] Round: Computer rolled scissors and Computer rolls sponge
+[Wed Jul 15 17:57:17 2020] This round was a tie
+[Wed Jul 15 18:07:06 2020] App starting up...
+[Wed Jul 15 18:07:06 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Wed Jul 15 18:07:10 2020] Darren has logged in.
+[Wed Jul 15 18:07:10 2020] New game starting between Darren and Computer.
+[Wed Jul 15 18:07:47 2020] Round: Computer rolled rock and Computer rolls air
+[Wed Jul 15 18:07:47 2020] This round's winner was Computer
+[Wed Jul 15 18:07:47 2020] Score is Computer: 1 and Computer: 1
+[Mon Jul 27 14:42:14 2020] App starting up...
+[Mon Jul 27 14:42:14 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Mon Jul 27 14:42:20 2020] Darren has logged in.
+[Mon Jul 27 14:42:20 2020] New game starting between Darren and Computer.
+[Mon Jul 27 14:42:26 2020] App starting up...
+[Mon Jul 27 14:42:26 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Mon Jul 27 14:42:32 2020] Darren has logged in.
+[Mon Jul 27 14:42:32 2020] New game starting between Darren and Computer.
+[Mon Jul 27 14:42:53 2020] Round: Darren rolled paper and Computer rolls water
+[Mon Jul 27 14:42:53 2020] This round's winner was Darren
+[Mon Jul 27 14:42:53 2020] Score is Darren: 1 and Computer: 0
+[Mon Jul 27 15:12:05 2020] App starting up...
+[Mon Jul 27 15:12:05 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Mon Jul 27 15:12:08 2020] Darren has logged in.
+[Mon Jul 27 15:12:08 2020] New game starting between Darren and Computer.
+[Mon Jul 27 15:52:33 2020] App starting up...
+[Mon Jul 27 15:52:33 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Mon Jul 27 15:52:38 2020] App starting up...
+[Mon Jul 27 15:52:38 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Mon Jul 27 15:52:38 2020]  has logged in.
+[Mon Jul 27 15:52:38 2020] New game starting between  and Computer.
+[Mon Jul 27 15:52:58 2020] App starting up...
+[Mon Jul 27 15:52:58 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Mon Jul 27 15:52:58 2020]  has logged in.
+[Mon Jul 27 15:52:58 2020] New game starting between  and Computer.
+[Mon Jul 27 15:53:03 2020] App starting up...
+[Mon Jul 27 15:53:03 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Mon Jul 27 15:53:15 2020] "test has logged in.
+[Mon Jul 27 15:53:15 2020] New game starting between "test and Computer.
+[Sun Oct 18 16:34:18 2020] App starting up...
+[Sun Oct 18 16:34:18 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Sun Oct 18 16:34:23 2020] Darren has logged in.
+[Sun Oct 18 16:34:23 2020] New game starting between Darren and Computer.
+[Sun Oct 18 16:35:04 2020] App starting up...
+[Sun Oct 18 16:35:04 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json
+[Sun Oct 18 16:35:08 2020] Darren has logged in.
+[Sun Oct 18 16:35:08 2020] New game starting between Darren and Computer.
+[Sun Oct 18 16:35:26 2020] Round: Darren rolled paper and Computer rolls paper
+[Sun Oct 18 16:35:26 2020] This round was a tie
+[Sun Oct 18 16:35:37 2020] Round: Darren rolled scissors and Computer rolls rock
+[Sun Oct 18 16:35:37 2020] This round's winner was Computer
+[Sun Oct 18 16:35:37 2020] Score is Darren: 0 and Computer: 1
